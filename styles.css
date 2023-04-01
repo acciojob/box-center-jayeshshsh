@@ -1,12 +1,23 @@
 /*  your css code here. If applicable */
-div{
-	height:530px;
+/* div{
+	height:500px;
 	width:500px;
-	margin:20px
-	border:2px solid black;
+	margin:100px
+	border : 2px solid black;
 	display:flex;
 	background-color: #ADD8E6;
 	justify-content:center;
 	align-items:center
 	
+	
+} */
+ div{
+	height:500px;
+	width:500px;
+	margin:100px;
+	border:2px solid black;
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	background-color:lightblue;
 }
