@@ -1,1 +1,12 @@
 /*  your css code here. If applicable */
+div{
+	height:530px;
+	width:237px;
+	margin:20px
+	border:2px solid black;
+	display:flex;
+	background-color: #ADD8E6;
+	justify-content:center;
+	align-items:center
+	
+}
